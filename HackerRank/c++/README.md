@@ -20,9 +20,4 @@
 I will add new problem solution. If you want to develop this solution, you will be pull request.
 
 
-<<<<<<< HEAD
 My gitlab account: [Safa Bayar](https://gitlab.com/rection)
-
-=======
-My gitlab account: [Safa Bayar](https://gitlab.com/rection)  
->>>>>>> c41460fda549d198fd9efe18f26848ebadaa09e2
