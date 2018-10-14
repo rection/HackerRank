@@ -14,7 +14,7 @@ vector<int> parseInts(string str) {
         vectorlist >> change;
     }
     return answer;
-    
+
 }
 
 int main() {
@@ -24,6 +24,6 @@ int main() {
     for(int i = 0; i < integers.size(); i++) {
         cout << integers[i] << "\n";
     }
-    
+
     return 0;
 }

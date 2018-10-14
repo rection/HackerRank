@@ -57,14 +57,5 @@ int main() {
     for (int i = 0; i < limit; ++i) {
     cout << a[i] << " ";
 }
-//     for(int m=0;m<limit;m++){
-//     for(int t=limit;0<=t;--t){
-//             l[m]=a[t];
-//     }  }
-  
-//     // for(int i=0;i<limit;i++){
-//     //     cout << l[i];
-//     // }
-    //cout << l[0];
     return 0;
 }
