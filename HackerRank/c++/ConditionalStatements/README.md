@@ -1,4 +1,4 @@
-Problem link : [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem)
+This problem link: [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem)
 
 
 if and else are two of the most frequently used conditionals in C/C++, and they enable you to execute zero or one conditional statement among many such dependent conditional statements. We use them in the following ways:

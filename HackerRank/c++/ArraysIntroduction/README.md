@@ -1,4 +1,4 @@
-This problem: [ArraysIntroduction](https://www.hackerrank.com/challenges/arrays-introduction/problem)
+This problem link: [ArraysIntroduction](https://www.hackerrank.com/challenges/arrays-introduction/problem)
 
 
 Some C++ data types, their format specifiers, and their most common bit widths are as follows:

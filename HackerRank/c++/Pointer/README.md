@@ -1,4 +1,4 @@
-Problem link : [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem)
+This problem link: [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem)
 
 
 A pointer in C is a way to share a memory address among different contexts (primarily functions). They are primarily used whenever a function needs to modify the content of a variable, of which it doesn't have ownership.

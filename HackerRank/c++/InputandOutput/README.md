@@ -1,4 +1,4 @@
-Problem link : [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)
+This problem link: [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)
 
 
 Objective

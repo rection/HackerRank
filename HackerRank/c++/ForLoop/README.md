@@ -1,4 +1,4 @@
-Problem link : [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem)
+This problem link: [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem)
 
 
 A for loop is a programming language statement which allows code to be repeatedly executed.

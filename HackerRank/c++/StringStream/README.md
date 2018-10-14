@@ -1,4 +1,4 @@
-Problem link : [String Stream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem)
+This problem link: [String Stream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem)
 
 
 stringstream is a stream class to operate on strings. It basically implements input/output operations on memory (string) based streams. stringstream can be helpful in different type of parsing. The following operators/functions are commonly used here

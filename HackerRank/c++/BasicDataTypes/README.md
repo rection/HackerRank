@@ -1,4 +1,4 @@
-Problem link : [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem)
+This problem link: [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem)
 
 
 Some C++ data types, their format specifiers, and their most common bit widths are as follows:

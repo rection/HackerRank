@@ -1,4 +1,4 @@
-Problem link : [Classes and Objects](https://www.hackerrank.com/challenges/classes-objects/problem)
+This problem link: [Classes and Objects](https://www.hackerrank.com/challenges/classes-objects/problem)
 
 
 A class defines a blueprint for an object. We use the same syntax to declare objects of a class as we use to declare variables of other basic types. For example:

@@ -1,4 +1,4 @@
-Problem link : [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem)
+This problem link: [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem)
 
 
 C++ provides a nice alternative data type to manipulate strings, and the data type is conveniently called string. Some of its widely used features are the following:

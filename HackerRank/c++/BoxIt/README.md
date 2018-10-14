@@ -1,4 +1,4 @@
-Problem link : [Box it!](https://www.hackerrank.com/challenges/box-it/problem)
+This problem link: [Box it!](https://www.hackerrank.com/challenges/box-it/problem)
 
 
 Design a class named Box whose dimensions are integers and private to the class. The dimensions are labelled: length , breadth , and height .
