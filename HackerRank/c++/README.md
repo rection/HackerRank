@@ -21,4 +21,4 @@ I will add new problem solution. If you want to develop this solution, you will 
 
 
 My gitlab account: [Safa Bayar](https://gitlab.com/rection)
-My twitter account: [Safa Bayar](https://twitter.com/BayarSafa?s=09)
+
